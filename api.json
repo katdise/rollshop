@@ -1,0 +1,406 @@
+[
+  {
+    "id": "0",
+    "imageUrl": "https://rice.store/storage/products/899d268e-d448-469a-98b0-673dd5af94a5.png",
+    "title": "Гейша",
+    "description": "Ролл со сливочным сыром, с/с лососем и огурцом.",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 380,
+    "category": 2,
+    "rating": 4,
+    "weight": 250,
+    "kilocalories": 186,
+    "proteins": 7,
+    "fats": 6,
+    "carbohydrates": 27
+  },
+  {
+    "id": "1",
+    "imageUrl": "https://rice.store/storage/products/7769e2cd-c8dc-4215-bbce-bb262f294589.png",
+    "title": "Лава с лососем",
+    "description": "Популярный ролл со сливочным сыром, Украшен соусом \"Лава\" на основе майонеза, икры летучей рыбы и морского гребешка.",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      40
+    ],
+    "price": 390,
+    "category": 2,
+    "rating": 6,
+    "weight": 310,
+    "kilocalories": 268,
+    "proteins": 6,
+    "fats": 17,
+    "carbohydrates": 22
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://rice.store/storage/products/c6a4681f-1dec-4d2a-aa09-ba5fcc360291.png",
+    "title": "Калифорния с лососем",
+    "description": "Ролл со сливочным сыром, слабосоленым лососем и огурцом, обсыпан икрой летучей рыбы.",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      40
+    ],
+    "price": 410,
+    "category": 2,
+    "rating": 4,
+    "weight": 265,
+    "kilocalories": 178,
+    "proteins": 6,
+    "fats": 6,
+    "carbohydrates": 25
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://rice.store/storage/products/b0d236c8-f7ae-4a3a-a5bb-91307583b783.png",
+    "title": "Филадельфия с зеленым луком",
+    "description": "Ролл со с/с лососем, луком и сливочным сыром.",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 480,
+    "category": 2,
+    "rating": 2,
+    "weight": 330,
+    "kilocalories": 208,
+    "proteins": 9,
+    "fats": 10,
+    "carbohydrates": 20
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://rice.store/storage/products/5fd0807c-cbb4-41cc-a105-2c6b678f56ee.png",
+    "title": "Сан-Райз",
+    "description": "Запеченный ролл со сливочным сыром, японским омлетом томаго и слабосоленым лососем. Под шапкой из морского гребешка, сырного и сливочно-мангового соуса.",
+    "types": [
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 550,
+    "category": 1,
+    "rating": 8,
+    "weight": 320,
+    "kilocalories": 250,
+    "proteins": 9,
+    "fats": 15,
+    "carbohydrates": 20
+  },
+  {
+    "id": "5",
+    "imageUrl": "https://rice.store/storage/products/9b613ab9-e2ec-4d37-aa44-fa31614a85ac.png",
+    "title": "Филадельфия роял",
+    "description": "Ролл с имитацией мяса краба, майонезом и салатом Айсберг. Обернут пластиками слабосоленого лосося, запечен под сырным соусом на основе сыра \"моцарелла\" и чеснока, украшен соусом \"унаги\" и кунжутом.",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      30,
+      40
+    ],
+    "price": 560,
+    "category": 1,
+    "rating": 2,
+    "weight": 410,
+    "kilocalories": 199,
+    "proteins": 8,
+    "fats": 10,
+    "carbohydrates": 18
+  },
+  {
+    "id": "6",
+    "imageUrl": "https://rice.store/storage/products/57ec6654-f93b-4dc8-8681-6638e0c4a2d1.png",
+    "title": "Гавайский ролл",
+    "description": "Ролл в кунжуте, с курицей барбекю, сливочным сыром и ананасом. Запечен под сырным соусом на основе сыра \"моцарелла\" и чеснока, украшен соусом \"унаги\".",
+    "types": [
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 270,
+    "category": 1,
+    "rating": 9,
+    "weight": 280,
+    "kilocalories": 223,
+    "proteins": 6,
+    "fats": 12,
+    "carbohydrates": 22
+  },
+  {
+    "id": "7",
+    "imageUrl": "https://rice.store/storage/products/d557cf8c-727e-48af-8541-789f45bc910e.png",
+    "title": "Бостон",
+    "description": "Обжаренный в сухарях ролл, с лососем холодного копчения, копченым угрем, огурцом и зеленым луком, с шапкой из фирменного соуса \"Лава спайси\".",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 470,
+    "category": 3,
+    "rating": 10,
+    "weight": 320,
+    "kilocalories": 263,
+    "proteins": 7,
+    "fats": 14,
+    "carbohydrates": 28
+  },
+  {
+    "id": "8",
+    "imageUrl": "https://rice.store/storage/products/e9ed9b34-2177-4395-b333-b818e037c641.png",
+    "title": "Фиджи",
+    "description": "Обжаренный в сухарях ролл с угрем и огурцом, с шапкой из сливочного сыра с икрой лосося и зеленым луком.",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 440,
+    "category": 3,
+    "rating": 10,
+    "weight": 390,
+    "kilocalories": 235,
+    "proteins": 6,
+    "fats": 45,
+    "carbohydrates": 26
+  },
+  {
+    "id": "9",
+    "imageUrl": "https://rice.store/storage/products/2a742395-edd5-459b-9f90-6debe3e70bcf.png",
+    "title": "Филадельфия с креветкой",
+    "description": "Ролл со сливочным сыром, копченым угрем. Накрыт тигровой креветкой.",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 490,
+    "category": 1,
+    "rating": 7,
+    "weight": 285,
+    "kilocalories": 231,
+    "proteins": 8,
+    "fats": 12,
+    "carbohydrates": 23
+  },
+  {
+    "id": "10",
+    "imageUrl": "https://rice.store/storage/products/899d268e-d448-469a-98b0-673dd5af94a5.png",
+    "title": "Гейша",
+    "description": "Ролл со сливочным сыром, с/с лососем и огурцом.",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 380,
+    "category": 2,
+    "rating": 4,
+    "weight": 250,
+    "kilocalories": 186,
+    "proteins": 7,
+    "fats": 6,
+    "carbohydrates": 27
+  },
+  {
+    "id": "11",
+    "imageUrl": "https://rice.store/storage/products/7769e2cd-c8dc-4215-bbce-bb262f294589.png",
+    "title": "Лава с лососем",
+    "description": "Популярный ролл со сливочным сыром, Украшен соусом \"Лава\" на основе майонеза, икры летучей рыбы и морского гребешка.",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      40
+    ],
+    "price": 390,
+    "category": 2,
+    "rating": 6,
+    "weight": 310,
+    "kilocalories": 268,
+    "proteins": 6,
+    "fats": 17,
+    "carbohydrates": 22
+  },
+  {
+    "id": "12",
+    "imageUrl": "https://rice.store/storage/products/c6a4681f-1dec-4d2a-aa09-ba5fcc360291.png",
+    "title": "Калифорния с лососем",
+    "description": "Ролл со сливочным сыром, слабосоленым лососем и огурцом, обсыпан икрой летучей рыбы.",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      40
+    ],
+    "price": 410,
+    "category": 2,
+    "rating": 4,
+    "weight": 265,
+    "kilocalories": 178,
+    "proteins": 6,
+    "fats": 6,
+    "carbohydrates": 25
+  },
+  {
+    "id": "13",
+    "imageUrl": "https://rice.store/storage/products/b0d236c8-f7ae-4a3a-a5bb-91307583b783.png",
+    "title": "Филадельфия с зеленым луком",
+    "description": "Ролл со с/с лососем, луком и сливочным сыром.",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 480,
+    "category": 2,
+    "rating": 2,
+    "weight": 330,
+    "kilocalories": 208,
+    "proteins": 9,
+    "fats": 10,
+    "carbohydrates": 20
+  },
+  {
+    "id": "14",
+    "imageUrl": "https://rice.store/storage/products/5fd0807c-cbb4-41cc-a105-2c6b678f56ee.png",
+    "title": "Сан-Райз",
+    "description": "Запеченный ролл со сливочным сыром, японским омлетом томаго и слабосоленым лососем. Под шапкой из морского гребешка, сырного и сливочно-мангового соуса.",
+    "types": [
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 550,
+    "category": 1,
+    "rating": 8,
+    "weight": 320,
+    "kilocalories": 250,
+    "proteins": 9,
+    "fats": 15,
+    "carbohydrates": 20
+  },
+  {
+    "id": "15",
+    "imageUrl": "https://rice.store/storage/products/9b613ab9-e2ec-4d37-aa44-fa31614a85ac.png",
+    "title": "Филадельфия роял",
+    "description": "Ролл с имитацией мяса краба, майонезом и салатом Айсберг. Обернут пластиками слабосоленого лосося, запечен под сырным соусом на основе сыра \"моцарелла\" и чеснока, украшен соусом \"унаги\" и кунжутом.",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      30,
+      40
+    ],
+    "price": 560,
+    "category": 1,
+    "rating": 2,
+    "weight": 410,
+    "kilocalories": 199,
+    "proteins": 8,
+    "fats": 10,
+    "carbohydrates": 18
+  },
+  {
+    "id": "16",
+    "imageUrl": "https://rice.store/storage/products/57ec6654-f93b-4dc8-8681-6638e0c4a2d1.png",
+    "title": "Гавайский ролл",
+    "description": "Ролл в кунжуте, с курицей барбекю, сливочным сыром и ананасом. Запечен под сырным соусом на основе сыра \"моцарелла\" и чеснока, украшен соусом \"унаги\".",
+    "types": [
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 270,
+    "category": 1,
+    "rating": 9,
+    "weight": 280,
+    "kilocalories": 223,
+    "proteins": 6,
+    "fats": 12,
+    "carbohydrates": 22
+  },
+  {
+    "id": "17",
+    "imageUrl": "https://rice.store/storage/products/d557cf8c-727e-48af-8541-789f45bc910e.png",
+    "title": "Бостон",
+    "description": "Обжаренный в сухарях ролл, с лососем холодного копчения, копченым угрем, огурцом и зеленым луком, с шапкой из фирменного соуса \"Лава спайси\".",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 470,
+    "category": 3,
+    "rating": 10,
+    "weight": 320,
+    "kilocalories": 263,
+    "proteins": 7,
+    "fats": 14,
+    "carbohydrates": 28
+  }
+]
